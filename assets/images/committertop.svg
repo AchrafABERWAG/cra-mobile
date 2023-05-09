@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg41"
+   width="1000"
+   height="350"
+   viewBox="0 0 1000 350"
+   sodipodi:docname="committertop.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   inkscape:export-filename="/Users/aberwag/Documents/COMMITTER/comptabilite/logo/logo/committer.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs45" />
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.57652421"
+     inkscape:cx="642.6443"
+     inkscape:cy="583.6702"
+     inkscape:window-width="1920"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="1038"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g47"
+     inkscape:snap-text-baseline="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g47">
+    <g
+       id="g757"
+       transform="matrix(0.65857609,0,0,0.65857609,386.48219,46.593822)">
+      <polygon
+         style="fill:#f7cf52"
+         points="92.95,218.062 162.25,287.362 145.55,318.202 62.11,234.762 "
+         id="polygon735" />
+      <path
+         style="fill:#76cdce"
+         d="m 250.693,172.74 c -1.796,0.269 -3.642,0.403 -5.523,0.403 -20.987,0 -38,-17.013 -38,-38 0,-20.987 17.013,-38 38,-38 1.881,0 3.726,0.134 5.523,0.403 18.371,2.673 32.477,18.491 32.477,37.597 0,19.106 -14.107,34.924 -32.477,37.597 z"
+         id="path737" />
+      <polygon
+         style="fill:#f7cf52"
+         points="88.54,119.242 163.22,109.612 73.86,198.972 18.98,188.802 "
+         id="polygon739" />
+      <polygon
+         style="fill:#f7cf52"
+         points="181.34,306.452 270.71,217.092 261.07,291.772 191.51,361.342 "
+         id="polygon741" />
+      <path
+         style="fill:#008db3"
+         d="m 320.56,59.752 c 14.27,14.26 32.44,22.19 51.08,23.81 -9.34,30.47 -26.03,58.62 -49.14,81.73 l -51.79,51.8 -89.37,89.36 -19.09,-19.09 -69.3,-69.3 -19.09,-19.09 89.36,-89.36 h 0.01 l 51.79,-51.8 c 23.12,-23.12 51.27,-39.81 81.74,-49.14 1.61,18.64 9.54,36.81 23.8,51.08 z m -48.52,102.26 c 14.84,-14.84 14.84,-38.9 0,-53.74 -14.84,-14.84 -38.9,-14.84 -53.74,0 -14.84,14.84 -14.84,38.9 0,53.74 14.84,14.84 38.9,14.84 53.74,0 z"
+         id="path743" />
+      <path
+         style="fill:#f7cf52"
+         d="m 378.82,1.492 c 3.45,27.92 0.86,55.86 -7.18,82.07 -18.64,-1.62 -36.81,-9.55 -51.08,-23.81 -14.26,-14.27 -22.19,-32.44 -23.8,-51.08 26.22,-8.04 54.15,-10.63 82.06,-7.18 z"
+         id="path745" />
+      <rect
+         x="45.064999"
+         y="276.16199"
+         transform="matrix(-0.7071,-0.7071,0.7071,-0.7071,-143.0177,599.0829)"
+         style="fill:#f4581b"
+         width="15"
+         height="105.999"
+         id="rect747" />
+      <rect
+         x="71.285004"
+         y="299.035"
+         transform="matrix(-0.7071,-0.7071,0.7071,-0.7071,-108.7171,642.8744)"
+         style="fill:#f4581b"
+         width="15"
+         height="89.836998"
+         id="rect749" />
+      <rect
+         x="30.271999"
+         y="258.02301"
+         transform="matrix(-0.7071,-0.7071,0.7071,-0.7071,-149.7311,543.8623)"
+         style="fill:#f4581b"
+         width="15"
+         height="89.836998"
+         id="rect751" />
+      <g
+         id="g755">
+        <path
+           style="fill:#96e0de"
+           d="M 250.693,172.74 V 97.546 c 18.371,2.673 32.477,18.491 32.477,37.597 0,19.106 -14.107,34.924 -32.477,37.597 z"
+           id="path753" />
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;stroke-width:0.728401"
+       id="rect893"
+       width="310"
+       height="20"
+       x="35.363846"
+       y="283.10428" />
+    <rect
+       style="fill:#000000;stroke-width:0.728401"
+       id="rect893-8"
+       width="310"
+       height="20"
+       x="653.50391"
+       y="281.07742" />
+  </g>
+</svg>
